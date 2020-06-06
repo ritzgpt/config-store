@@ -4,6 +4,3 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
- jpa:
-  hiberanate:
-  ddl-auto: create
